@@ -1,0 +1,8 @@
+root
+admin
+username
+nameuser
+toor
+msfadmin
+noname
+myname
