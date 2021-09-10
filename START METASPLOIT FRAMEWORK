@@ -1,0 +1,26 @@
+root@kali~# msfdb start
+[+] Starting database
+
+root@kali~# service postgresql start
+
+root@kali~# msfconsole
+   ,           ,
+    /             \                                                                                                                                                                                                                        
+   ((__---,,,---__))                                                                                                                                                                                                                       
+      (_) O O (_)_________                                                                                                                                                                                                                 
+         \ _ /            |\                                                                                                                                                                                                               
+          o_o \   M S F   | \                                                                                                                                                                                                              
+               \   _____  |  *                                                                                                                                                                                                             
+                |||   WW|||                                                                                                                                                                                                                
+                |||     |||                                                                                                                                                                                                                
+                                                                                                                                                                                                                                           
+
+       =[ metasploit v6.1.4-dev                           ]
++ -- --=[ 2162 exploits - 1146 auxiliary - 367 post       ]
++ -- --=[ 592 payloads - 45 encoders - 10 nops            ]
++ -- --=[ 8 evasion                                       ]
+
+Metasploit tip: When in a module, use back to go 
+back to the top level prompt
+
+msf6 > 
