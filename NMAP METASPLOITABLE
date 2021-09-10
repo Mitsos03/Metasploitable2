@@ -25,7 +25,7 @@ PORT     STATE SERVICE     VERSION
 8009/tcp open  ajp13       Apache Jserv (Protocol v1.3)
 8180/tcp open  http        Apache Tomcat/Coyote JSP engine 1.1
 
-FOR VULNERABILITY SCANNING WITH NMAP 
+#FOR VULNERABILITY SCANNING WITH NMAP 
 nmap -sS -sV -A --script vulners metasploitable ip
 
 PORT     STATE SERVICE     VERSION
